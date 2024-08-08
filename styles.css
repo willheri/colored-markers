@@ -14,13 +14,13 @@ h1 {
 }
 
 .red {
-  background-color: rgb(255, 0, 0);
+  background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0), rgb(0, 0, 255));
 }
 
 .green {
-  background-color: rgb(0, 0, 0);
+  background-color: #007F00;
 }
 
 .blue {
-  background-color: rgb(0, 0, 0);
+  background-color: hsl(240, 100%, 50%);
 }
